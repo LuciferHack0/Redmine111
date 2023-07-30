@@ -12,7 +12,7 @@ Then redirect on redmine login page.
 ### Then,
 Login ID: "Company Email ID" 
 
-Default password is : redhat@123
+Default password is :  
 
 ### Then, Change the password.
 redirect on the change password page.
